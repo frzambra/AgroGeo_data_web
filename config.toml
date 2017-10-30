@@ -1,4 +1,4 @@
-baseurl = "https://www.agrogeodata.cl/"
+baseurl = "/"
 title = ""
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
