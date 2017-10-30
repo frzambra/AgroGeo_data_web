@@ -15,7 +15,7 @@ relativeURLs = true
   description = "Pagina web empresa AgroGeo Data"
   copyright = "&copy;2017 AgroGeo data"
   sidebarAbout = [
-    "AgroGeo data utiliza herramientas informáticas avanzadas para análisis de datos geo-espaciales aumentando la competitividad de la agricultura ayudando a mitigar el impacto del cambio climático. ",
+    "AgroGeo data utiliza herramientas informáticas avanzadas para análisis de datos geo-espaciales y su visualización aumentando la competitividad de la agricultura ayudando a mitigar el impacto del cambio climático. ",
     ""
   ]
   # Contact page
